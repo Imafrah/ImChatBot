@@ -27,5 +27,23 @@ It allows users to chat with an AI assistant directly from the browser.
 - Node.js
 - Google Gemini API
 - Body-Parser & CORS for handling requests
-
 ---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
+   cd Gemini-AI-Chatbot
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Set up environment variables**
+ - Create a .env file in the root directory and add:
+   ```bash
+   GEMINI_API_KEY=your_api_key_here
+4. **Run the server**
+   ```bash
+   node server.js
+5. **Open in browser**
+   - Visit http://localhost:3000 
