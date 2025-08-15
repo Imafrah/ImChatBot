@@ -34,7 +34,7 @@ It allows users to chat with an AI assistant directly from the browser.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/yourrepo.git
-   cd Gemini-AI-Chatbot
+   cd ImChatBot
 2. **Install dependencies**
    ```bash
    npm install
