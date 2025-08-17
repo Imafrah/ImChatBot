@@ -22,6 +22,7 @@ It allows users to chat with an AI assistant directly from the browser.
 - HTML5
 - CSS3
 - JavaScript
+- React.js
 
 ### Backend:
 - Node.js
